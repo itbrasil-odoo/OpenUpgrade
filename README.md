@@ -1,7 +1,6 @@
 
-[![Pre-commit Status](https://github.com/OCA/OpenUpgrade/actions/workflows/pre-commit.yml/badge.svg?branch=18.0)](https://github.com/OCA/OpenUpgrade/actions/workflows/pre-commit.yml?query=branch%3A18.0)
-[![Build Status](https://github.com/OCA/OpenUpgrade/actions/workflows/test.yml/badge.svg?branch=18.0)](https://github.com/OCA/OpenUpgrade/actions/workflows/test.yml?query=branch%3A18.0)
-[![codecov](https://codecov.io/gh/OCA/OpenUpgrade/branch/18.0/graph/badge.svg)](https://codecov.io/gh/OCA/OpenUpgrade)
+[![Pre-commit Status](https://github.com/itbrasil-odoo/OpenUpgrade/actions/workflows/pre-commit.yml/badge.svg?branch=18.0)](https://github.com/itbrasil-odoo/OpenUpgrade/actions/workflows/pre-commit.yml?query=branch%3A18.0)
+[![Build Status](https://github.com/itbrasil-odoo/OpenUpgrade/actions/workflows/test.yml/badge.svg?branch=18.0)](https://github.com/itbrasil-odoo/OpenUpgrade/actions/workflows/test.yml?query=branch%3A18.0)
 
 <!-- /!\ do not modify above this line -->
 
@@ -9,9 +8,9 @@
 
 # Tools to upgrade Odoo instances from a major version to another
 
-This <a href="https://odoo-community.org">OCA</a> project aims to provide an Open Source upgrade path for <a href="https://github.com/odoo/odoo">Odoo</a> from one major Odoo version to the next one.
-It is hosted at <a href="https://github.com/oca/openupgrade">GitHub</a>.
-For documentation, see <a href="https://oca.github.io/OpenUpgrade">here</a>.
+This <a href="https://itbrasil-odoo.github.io">IT Brasil</a> project aims to provide an Open Source upgrade path for <a href="https://github.com/odoo/odoo">Odoo</a> from one major Odoo version to the next one.
+It is hosted at <a href="https://github.com/itbrasil-odoo/openupgrade">GitHub</a>.
+For documentation, see <a href="https://itbrasil-odoo.github.io/OpenUpgrade">here</a>.
 
 <!-- /!\ do not modify below this line -->
 
@@ -34,11 +33,11 @@ addon | version | maintainers | summary
 
 This repository is licensed under [AGPL-3.0](LICENSE).
 
-However, each module can have a totally different license, as long as they adhere to Odoo Community Association (OCA)
+However, each module can have a totally different license, as long as they adhere to IT Brasil
 policy. Consult each module's `__manifest__.py` file, which contains a `license` key
 that explains its license.
 
 ----
-OCA, or the [Odoo Community Association](http://odoo-community.org/), is a nonprofit
+IT Brasil, or the [IT Brasil Community](http://itbrasil-odoo.github.io), is a nonprofit
 organization whose mission is to support the collaborative development of Odoo features
 and promote its widespread use.
